@@ -46,7 +46,7 @@ End-to-end business intelligence project analyzing global commercial performance
 - Market performance insights
 - Data-driven business recommendations
 
-🔗 Project:
+
 🔗 Project:
 [Global Commercial Performance Dashboard](https://github.com/Sienna-F/global-commercial-performance-dashboard)
 
