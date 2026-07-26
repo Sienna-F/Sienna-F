@@ -47,8 +47,8 @@ End-to-end business intelligence project analyzing global commercial performance
 - Data-driven business recommendations
 
 🔗 Project:
-[Global Commercial Performance Dashboard](你的链接)
-
+🔗 Project:
+[Global Commercial Performance Dashboard](https://github.com/Sienna-F/global-commercial-performance-dashboard)
 
 ---
 
@@ -69,8 +69,7 @@ Power BI analytics project exploring regulatory discussions, stakeholder influen
 
 
 🔗 Project:
-[TikTok Regulatory Intelligence Analytics](你的链接)
-
+[TikTok Regulatory Intelligence Analytics](https://github.com/Sienna-F/tiktok-regulatory-intelligence-analytics)
 
 ---
 
@@ -89,4 +88,4 @@ I enjoy translating data into insights that support better business decisions.
 
 ## 📫 Contact
 
-LinkedIn: 添加你的LinkedIn
+Email: wenqing.ff@gmail.com
